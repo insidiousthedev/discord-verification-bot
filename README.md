@@ -12,6 +12,7 @@ You basically have to send `!verify` in a channel and it'll give you a certian r
 - [Npm](https://nodejs.org) (I used 8.3.0, but anything which comes with Node.js v12 or above **should** work
 - [Discord.js@12.5.3](https://github.com/discordjs/discord.js/tree/v12) (v13 will **not** work. I made it using an older version because.....I don't really know)
 - [dotenv](https://github.com/motdotla/dotenv) (I used v16.0.0) 
+- [Prettier](https://prettier.io/) (I used the VSCode Extension)
 
 ### How to use?
 
